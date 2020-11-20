@@ -13,3 +13,8 @@
     <p>a.	Magnitude of sentiment portrayed by size</p>
     <p>b.	Direction of sentiment portrayed by color gradient</p>
 
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
